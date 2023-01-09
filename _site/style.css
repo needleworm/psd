@@ -1580,6 +1580,8 @@ table-bordered>thead>tr>th,.table-bordered>thead>tr>th,table-bordered>tbody>tr>t
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+
 .chapterSubtitle{
     color: #00a84b;
     font-size: 19px;
@@ -1848,7 +1850,24 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fec503;
 }
 
+.navbar-brand{
+    margin-top:auto;
+    margin-bottom:auto;
+    padding-top:auto;
+    padding-bottom:auto;
+}
+
+.logo {
+    width:40vw;
+    padding-top:8px;
+}
+
+
 @media(min-width:768px) {
+    .logo {
+        height:100%;
+    }
+
     .navbar-default {
         padding: 25px 0;
         border: 0;
