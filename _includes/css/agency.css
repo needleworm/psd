@@ -281,9 +281,11 @@ fieldset[disabled] .btn-xl.active {
     padding-bottom:auto;
 }
 
-.logo {
-    width:40vw;
-    padding-top:8px;
+@media(min-width:768px) {
+    .logo {
+        width:40vw;
+        padding-top:8px;
+    }
 }
 
 
