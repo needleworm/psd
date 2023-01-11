@@ -1,4 +1,7 @@
 {
+ "manifest_version": 2,
+ "display": "fullscreen",
+ "start_url": "/?fullscreen=true",
  "name": "포토샵 마스터 클래스",
  "theme_color": "#000000",
  "background_color": "#ffffff",
@@ -17,8 +20,6 @@
    "src": "img/favicon/apple-icon-180x180.png",
    "sizes": "180x180",
    "type": "image/png"
-  },  
-  "display": "standalone",
-  "start_url": "/?standalone=true",
+  }
  ]
 }
