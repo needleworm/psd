@@ -20,5 +20,11 @@
    "sizes": "96x96",
    "type": "image/png"
   },
+  {
+   "src": "img/favicon/apple-icon-120x120.png",
+   "sizes": "120x120",
+   "type": "image/png"
+  },
+  
  ]
 }
