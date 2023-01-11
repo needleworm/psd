@@ -1,5 +1,6 @@
 {
- "name": "App",
+ "name": "포토샵 마스터 클래스",
+ "display": "fullscreen",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
