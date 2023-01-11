@@ -1,7 +1,7 @@
 {
  "manifest_version": 2,
  "display": "fullscreen",
- "start_url": "/?fullscreen=true",
+ "start_url": "/psd/?fullscreen=true",
  "name": "포토샵 마스터 클래스",
  "theme_color": "#000000",
  "background_color": "#ffffff",
